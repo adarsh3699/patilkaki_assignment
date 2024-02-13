@@ -11,31 +11,36 @@ function Creativity() {
 				<div className="serv-content">
 					<div className="card">
 						<div className="box">
-							<i className="fas fa-paint-brush">1</i>
+							<i className="fas fa-paint-brush"></i>
+							<br /> <br />
 							<p>Learn to look at the challenges through a different lens</p>
 						</div>
 					</div>
 					<div className="card">
 						<div className="box">
-							<i className="fas fa-chart-line">2</i>
+							<i className="fas fa-chart-line"></i>
+							<br /> <br />
 							<p>Develop a deep understanding of modern marketing</p>
 						</div>
 					</div>
 					<div className="card">
 						<div className="box">
-							<i className="fas fa-code">3</i>
+							<i className="fas fa-code"></i>
+							<br /> <br />
 							<p>Understand time-tested principles</p>
 						</div>
 					</div>
 					<div className="card">
 						<div className="box">
-							<i className="fas fa-code">4</i>
+							<i className="fas fa-code"></i>
+							<br /> <br />
 							<p>Become a strategic thinker without trend-surfing</p>
 						</div>
 					</div>
 					<div className="card">
 						<div className="box">
-							<i className="fas fa-code">5</i>
+							<i className="fas fa-code"></i>
+							<br /> <br />
 							<p>Incorporate a creative & innovative thought process</p>
 						</div>
 					</div>
